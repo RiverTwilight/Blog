@@ -40,9 +40,9 @@ window.matchMedia && window.matchMedia('prefers-color-scheme: dark').matches
     for (var i = 0; i < e.target.files.length; i++) {
         var freader = new FileReader();
         freader.readAsDataURL(file);
-        console.log(e.target.files)//ok
+        console.log(e.target.files)// ok
         freader.onload = fe => {
-            console.log(e.target.files)//error!
+            console.log(e.target.files)// error!
         }
     }
 ```
