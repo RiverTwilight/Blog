@@ -1,3 +1,5 @@
+
+# Github博客已不再更新，请前往我的[博客网站](https://blog.yungeeker.com)
 ![即将告别的windows](https://i.loli.net/2020/06/13/nMuJf78FBPqVvxS.png)
 
 ## 我和Windows

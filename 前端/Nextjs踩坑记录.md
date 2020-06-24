@@ -1,3 +1,5 @@
+# Github博客已不再更新，请前往我的[博客网站](https://blog.yungeeker.com)
+
 # Next.js 踩坑记录
 
 ## 部署
